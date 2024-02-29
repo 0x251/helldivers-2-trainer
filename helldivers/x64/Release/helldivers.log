@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\Shadow\source\repos\helldivers\helldivers\dllmain.cpp(73,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  (compiling source file '/dllmain.cpp')
+  
+  Generating code
+  3 of 82 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  helldivers.vcxproj -> C:\Users\Shadow\source\repos\helldivers\x64\Release\helldivers.dll
